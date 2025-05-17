@@ -1,0 +1,12 @@
+[book]
+authors = ["Tim Hämisch"]
+language = "en"
+src = "src"
+title = "gitzeug"
+
+[build]
+build-dir = "../../web/docs/gitzeug/"
+
+[output.html]
+git-repository-url = "https://github.com/thaemisch/gitzeug"
+git-repository-icon = "fa-github"
